@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "username": "genciyusifov",
+      "password": "west5566",
+      "surname": "Yusifov",
+      "name": "Ganji",
+      "position": "Developer",
+      "salary": "1500",
+      "experience": "2",
+      "colleagues": 2,
+      "collaborator": [
+        "Elcan , Elman"
+      ],
+      "id": 1
+    },
+    {
+      "username": "genciyus",
+      "password": "west55",
+      "surname": "Yusifsdov",
+      "name": "Gandsaji",
+      "position": "Developesadr",
+      "salary": "15200",
+      "experience": "2",
+      "collaborator": [
+        "Elcan , Elman"
+      ],
+      "id": 1
+    },
+    {
+      "username": "ganji@div.edu.az",
+      "password": "1234",
+      "surname": "Yusifov",
+      "name": "sdfsf",
+      "position": "Developer",
+      "salary": "1500",
+      "experience": "2",
+      "colleagues": "2",
+      "collaborator": [
+        "dsadscds edsda"
+      ],
+      "active": false,
+      "id": 2
+    },
+    {
+      "username": "yusifovgenci91@gmail.com",
+      "password": "234",
+      "surname": "dsa",
+      "name": "123",
+      "position": "Developer",
+      "salary": "1500",
+      "experience": "2",
+      "colleagues": "2",
+      "collaborator": [
+        "dasdsa"
+      ],
+      "active": false,
+      "id": 3
+    },
+    {
+      "username": "rseyidov643@gmail.com",
+      "password": "12345",
+      "surname": "bcbbb",
+      "name": "Ganji",
+      "position": "Developer",
+      "salary": "1500",
+      "experience": "1",
+      "colleagues": "2",
+      "collaborator": [
+        "sadad"
+      ],
+      "active": false,
+      "id": 4
+    }
+  ]
+}
